@@ -16,7 +16,7 @@
                   <label for="password">Your Password</label>
                 </div>
             <div class="text-center">
-              <button class="btn btn-secondary" name="login">Login</button>
+              <button class="btn btn-dark btn-block" name="login">Login</button>
             </div>
           </form>
         </div>
