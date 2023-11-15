@@ -1,5 +1,5 @@
-<?php include('includes/config.php') ?>
-<?php include('header.php') ?>
+<?php include ('includes/config.php') ?>
+<?php include ('header.php') ?>
 
 <!--Navbar -->
 <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #2E8B57;">
