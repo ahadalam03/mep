@@ -1,4 +1,4 @@
-<?php include('header.php') ?>
+<?php include ('header.php') ?>
   <section class="bg-light vh-100 d-flex">
     <div class="col-3 m-auto">
       <div class="card">
